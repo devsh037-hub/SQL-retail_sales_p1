@@ -218,7 +218,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### 🔗 Connect With Me
 If you’d like to discuss this project or collaborate on data analytics work, feel free to connect!
 
-* **LinkedIn:** [Dev Sharma](www.linkedin.com/in/devsharma-dataanalyst)
+* **LinkedIn:** [Dev Sharma](https://www.linkedin.com/in/devsharma-dataanalyst)
 * **Email:** [devsh037@gmail.com](mailto:devsh037@gmail.com)
 
 
